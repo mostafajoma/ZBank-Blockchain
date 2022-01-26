@@ -1,6 +1,12 @@
 # ZBank-Blockchain
 Private BlockChain testnet for developer team to use and explore potentials for blockchain at ZBank.
 
+## Please refere to the Markdown files in the order below:
+
+1. start-the-Network.md
+2. Installation_guide.md (if you do not have MyCrypto and Go Ethereum Tools)
+3. connect-mycrypto-app
+
 
 ## Background
 ZBank is a small, innovative bank that is interested in exploring what
